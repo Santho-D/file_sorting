@@ -17,7 +17,7 @@ Python script that automatically sorts files in a Directory according to categor
 
 ```bash
 # Clone the repository
-git clone https://github.com/**YOUR-USERNAME**/file_sorting.git
+git clone https://github.com/Santho-D/file_sorting.git
 cd file_sorting
 
 # Run the script
@@ -53,4 +53,4 @@ python file_organizer.py
 ## Author
 
 Santho-D
-Fachinformatiker Anwendungsentwicklung in training
+Fachinformatiker Anwendungsentwicklung in Ausbildung
